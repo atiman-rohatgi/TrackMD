@@ -1,0 +1,4 @@
+Users DB
+User1,password,patient
+User2,password,doctor
+User3,password,nurse
