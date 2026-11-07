@@ -1,0 +1,21 @@
+# Build output
+bin/
+target/
+out/
+*.class
+
+# IDE files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data the app writes to the working directory (accounts, patients, visits).
+# Sample copies live in sample-data/.
+/*.txt
